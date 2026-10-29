@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#F8F7F4"/>
+  <rect x="46" y="46" width="420" height="420" rx="94" fill="#252525"/>
+  <text x="256" y="170" text-anchor="middle" fill="#A9A9A6" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="54" font-weight="500" letter-spacing="2">jyut6</text>
+  <text x="256" y="375" text-anchor="middle" fill="#F8F7F4" font-family="'PingFang TC', 'Noto Sans TC', sans-serif" font-size="238" font-weight="600">粵</text>
+</svg>
